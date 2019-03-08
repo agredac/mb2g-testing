@@ -5,6 +5,8 @@ package guru.springframework;
  */
 public class JavaHelloWorld {
 
+    public JavaHelloWorld(){}
+
     public String getHello(){
         return "Hello World";
     }
