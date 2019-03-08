@@ -1,6 +1,6 @@
 package guru.springframework;
 
-public class Junit4HelloWorld {
+public class JunitHelloWorld {
 
     public String getHello(){
         return "Hello World";
